@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, sans-serif;
+}
+
+.odd {
+  background-color: #ffc0cb;
+}
+
+.odd.modified {
+  font-size: 24px;
+}
+
+#second {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
