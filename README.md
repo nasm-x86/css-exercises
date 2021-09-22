@@ -36,7 +36,7 @@ These exercises should be done when instructed during the course of the curricul
   - margin-and-padding-2 [✅]
  
 3. Flex:
-  - 01-flex-center [ ]
+  - 01-flex-center [✅]
   - 02-flex-header [ ]
   - 03-flex-header-2 [ ]
   - 04-flex-information [ ]
